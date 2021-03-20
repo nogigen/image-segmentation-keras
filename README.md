@@ -1,13 +1,16 @@
 # Seam segmentation with mobilenet-unet
 
-keras-preprocessing.ipynb script allows me to create the desired data/folder structure to use train.py
-I also changed the annotation images pixel values. Since there are only 2 classes (seam and background), pixel values should be either 0 or 1. I used a threshold that changed a pixels value to 1 if that pixels value was >= 1.
-    
+keras-preprocessing.ipynb script allows me to create the desired data/folder structure.
+
     ├── dataset1          
       ├── annotations_prepped_test  
       ├── annotations_prepped_train  
       ├── images_prepped_test                                               
-      ├── images_prepped_train                    
+      ├── images_prepped_train 
+
+It also changes the annotation images pixel values. Since there are only 2 classes (seam and background), pixel values should be either 0 or 1. I used a threshold that changed a pixels value to 1 if that pixels value was >= 1.
+    
+                   
 
 I saved the google colab that I worked as a .ipynb, you can check seam_segmentation_w_keras_mobilenet_unet.ipynb for that.
 
