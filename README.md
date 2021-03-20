@@ -15,9 +15,10 @@ I saved the google colab that I worked as a .ipynb, you can check seam_segmentat
 Here are some of the results.
 
 
-Input             |  Output
-:-------------------------:|:-------------------------:
 ![](input-1.png)  |  ![](output-1.png)
+:-------------------------:|:-------------------------:
+Input             |  Output
+
 
 
 | ![combined-1.png](combined-1.png) | 
@@ -38,9 +39,9 @@ Input             |  Output
 | Multiple Input-Output |
 
 
-Multiple Inputs            |  Multiple Outputs
-:-------------------------:|:-------------------------:
 ![](multiple-inputs.png)  |  ![](multiple-outputs.png)
+:-------------------------:|:-------------------------:
+Multiple Inputs            |  Multiple Outputs
 
 ## Working Google Colab Examples:
 * Python Interface: https://colab.research.google.com/drive/1q_eCYEzKxixpCKH1YDsLnsvgxl92ORcv?usp=sharing
