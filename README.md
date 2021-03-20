@@ -38,7 +38,7 @@ Input             |  Output
 | Multiple Input-Output |
 
 
-Multiple Input             |  Multiple Outputs
+Multiple Inputs            |  Multiple Outputs
 :-------------------------:|:-------------------------:
 ![](multiple-inputs.png)  |  ![](multiple-outputs.png)
 
